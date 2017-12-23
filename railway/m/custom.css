@@ -1,0 +1,302 @@
+ul, ol {
+	margin:0;
+	}
+
+body {
+	/*background:#CCCCCC;*/
+	}
+
+.container{
+	
+	/*background:#CCCCCC;*/
+	}
+
+
+
+#header{
+  border:1px solid #000000;	
+  background:#FFFFFF;
+  
+}
+
+#wrapper {
+  min-width:950px;
+  
+
+}
+
+.bg-colored  {background:#e5ecf9;}
+
+li {
+	list-style-type: none;
+	}
+body {
+    
+	
+	}
+
+.container{
+	
+	
+	}
+#header {
+	margin-top:10px;
+    padding-top:10px;
+    border:1px solid #77B0FF;
+		
+}
+
+#breadcumber{
+	border-left:1px solid #77B0FF;
+	border-right:1px solid #77B0FF;
+	border-bottom:1px solid #77B0FF;
+	background-color:green;
+	}
+	
+#navigator{
+	
+	border-left:1px solid #77B0FF;
+	border-right:1px solid #77B0FF;
+	border-bottom:1px solid #77B0FF;
+}		
+
+
+#main{
+	
+	
+}
+
+#content{
+	margin-top:5px;
+	
+}
+
+#sidebar{
+	
+	
+}	
+	
+
+
+#logo {
+
+float:left;
+}
+
+
+.login-form {
+
+float:right;
+}
+
+.login-form  ul {
+	
+    list-style-type: none;
+	
+}
+
+
+
+#footer-links {
+ text-align:center;
+ border:1px solid #77B0FF;
+ 
+ 
+
+}
+
+#footer {
+ margin-top: 10px;	
+ text-align:center;
+ background:#E0F5FD none repeat scroll 0 0;
+ border:1px solid #77B0FF;
+ border-top:4px solid #F5E1B8;
+
+}
+
+#footer p {
+ margin:0;
+ padding:0;
+
+}
+
+
+
+.mainbox {
+ border: 1px solid #77B0FF;
+ margin: 0px 0px 4px;
+ background-color: #FFFFFF;
+
+}
+
+.mainbox-title {
+ font-weight: bold;
+ color: #003399;
+ background-color: #DDECFF;
+ border-bottom-width: 1px;
+ border-bottom-style: solid;
+ border-bottom-color: #77B0FF;
+ padding:5px;
+
+}
+
+.mainbox-title h2 {
+	font-size:100%;
+     font-weight:bold;
+     margin:0;
+     padding:0;
+	}
+
+.mainbox-content {
+ padding:5px;
+ text-align:justify;
+
+}
+
+.mainbox-content h3{
+ background-color: #ffff89;
+
+}
+
+.mainbox-content ul{
+   padding-bottom:5px;
+
+}
+
+.sidebox {
+ border: 1px solid #77B0FF;
+ margin: 0px 0px 4px;
+ background-color: #FFFFFF;
+
+}
+
+.sidebox-title {
+ font-weight: bold;
+ color: #003399;
+ background-color: #DDECFF;
+ border-bottom-width: 1px;
+ border-bottom-style: solid;
+ border-bottom-color: #77B0FF;
+ padding:5px;
+
+}
+
+
+.sidebox-title h2 {
+     font-size:100%;
+     font-weight:bold;
+     margin:0;
+     padding:0;
+
+}
+
+.sidebox-content {
+ padding:5px;
+ text-align:justify;
+
+}
+
+.sidebox-content ul{
+ padding:0px 2px 0px 2px;
+
+}
+
+.mainbox-title-only {
+ font-weight: bold;
+ color: #003399;
+ background-color: #DDECFF;
+ padding:5px;
+ }
+
+.list li{
+    display: inline;
+    list-style-type: none;}
+
+.list a { padding: 3px 10px; }
+
+#navigator {
+	background-color:#488E00;
+	}
+#navigator a { color: #FFFFFF;; text-decoration:none; font-weight:bold; padding-left:5px;padding-right:5px;
+   }
+.user_msg {
+	color: #FFFFFF;; text-decoration:none; font-weight:bold; padding-left:5px;padding-right:5px;
+	}   
+#navigator a:hover {
+      border:1px solid green;
+      background:green;
+      color:white;
+     
+      text-decoration:none;
+}
+#navigator a:visited { COLOR: #FFFFFF; text-decoration:none; font-weight:bold; }
+
+
+/* css for user profile */
+.user-info {
+	clear: both;
+	height: 45px;
+	width: 185px;
+	
+	}
+
+.user-info .user-info-space {
+	margin-bottom:4px;
+margin-top:2px;
+}
+
+.user-avatar32 {
+	float:left;
+height:32px;
+width:32px;
+	
+	}
+	
+.user-details {
+	float:left;
+margin-left:5px;
+overflow:hidden;
+white-space:nowrap;
+width:145px;
+	
+	}	
+	
+#subheader{	
+border-bottom:1px solid #666666;
+clear:both;
+height:34px;
+}
+
+.error {
+background:#FFFFCC url(../images/error.png) no-repeat scroll 10px center;
+border:1px solid #DDDDDD;
+color:#666666;
+display:block;
+font-size:12px;
+margin:0 0 3px;
+padding:10px 5px 10px 50px;
+}
+
+.success {
+background:#FFFFCC url(../images/success.png) no-repeat scroll 10px center;
+border:1px solid #DDDDDD;
+color:#666666;
+display:block;
+font-size:12px;
+margin:0 0 3px;
+padding:10px 5px 10px 50px;
+}
+
+.warning {
+background:#FFFFCC url(../images/warning.png) no-repeat scroll 10px center;
+border:1px solid #DDDDDD;
+color:#666666;
+display:block;
+font-size:12px;
+margin:0 0 3px;
+padding:10px 5px 10px 50px;
+}
+
+.desc {
+	font-size:12px;
+	}
